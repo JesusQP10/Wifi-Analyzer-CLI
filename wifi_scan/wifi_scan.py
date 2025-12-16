@@ -70,7 +70,7 @@ def parse_networks(output):
         elif line.startswith("BSSID"):
             parts = line.split(":")
             if len(parts) > 1:
-                # Reconstruir la MAC correctamente
+                # Reconstruir la MAC 
                 current_net["bssid"] = ":".join(parts[1:]).strip()
 
         # Capturar Señal 
