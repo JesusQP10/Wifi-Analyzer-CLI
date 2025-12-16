@@ -42,3 +42,8 @@ Ejecuta el script directamente desde tu terminal (PowerShell o CMD para la mejor
 
 ```bash
 python wifi_scan.py
+```
+## ⚠️ Advertencia
+
+Este proyecto ha sido desarrollado con fines educativos.
+No utilizar contra sistemas sin previa autorización.
